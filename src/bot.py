@@ -2,7 +2,7 @@ import discord
 import tokens
 
 
-class MyClient(discord.Client):
+class UCSD24StatsBot(discord.Client):
 
     def __init__(self):
         super().__init__()
@@ -14,7 +14,7 @@ class MyClient(discord.Client):
         # if not self.is_closed():
         # print(self.guilds[0].id)
         self.server_members = self.get_guild(688557666779529271).members
-        print(self.server_members)
+        # print(self.server_members)
+        await self.logout()
 
-client = MyClient()
-client.run(tokens.token)
+
