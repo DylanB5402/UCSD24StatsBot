@@ -18,5 +18,5 @@ if __name__ == "__main__":
     client.run(tokens.token)
     charter = role_charter.RoleCharter(client)
     print(charter.role_number_dict)
-    # charter.get_roles_sum(role_charter.SumRoles(["@everyone", "UnoBot"]))
-    charter.generate_chart(role_charter.SeparateRoles(["He/Him", "She/Her"]), role_charter.SumRoles(["@everyone", "UnoBot"]))
+    # charter.generate_chart("chart1", role_charter.SeparateRoles(["He/Him", "She/Her"]), role_charter.SumRoles(["@everyone", "UnoBot"], name="taco"), role_charter.SumRoles(["International"]))
+    charter.generate_chart("charts/locations", role_charter.SeparateRoles(["International", "Out of State", "NorCal", "SoCal"]))
