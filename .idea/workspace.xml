@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="580a2827-6ac5-450d-91b4-23a3499ac59e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bot.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/bot.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chart.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/chart.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +40,7 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.chart">
+  <component name="RunManager" selected="Python.main">
     <configuration name="bot" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="UCSD24StatsBot" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -124,8 +127,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.chart" />
         <item itemvalue="Python.main" />
+        <item itemvalue="Python.chart" />
         <item itemvalue="Python.bot" />
         <item itemvalue="Python.example" />
       </list>
@@ -147,21 +150,21 @@
       <screen x="72" y="27" width="1464" height="837" />
     </state>
     <state x="500" y="248" width="604" height="408" key="#com.intellij.fileTypes.FileTypeChooser/72.27.1464.837@72.27.1464.837" timestamp="1598043846601" />
-    <state width="1441" height="282" key="GridCell.Tab.0.bottom" timestamp="1598158598778">
+    <state width="1441" height="318" key="GridCell.Tab.0.bottom" timestamp="1598489867683">
       <screen x="72" y="27" width="1464" height="837" />
     </state>
-    <state width="1441" height="282" key="GridCell.Tab.0.bottom/72.27.1464.837@72.27.1464.837" timestamp="1598158598778" />
-    <state width="1441" height="282" key="GridCell.Tab.0.center" timestamp="1598158598778">
+    <state width="1441" height="318" key="GridCell.Tab.0.bottom/72.27.1464.837@72.27.1464.837" timestamp="1598489867683" />
+    <state width="1441" height="318" key="GridCell.Tab.0.center" timestamp="1598489867682">
       <screen x="72" y="27" width="1464" height="837" />
     </state>
-    <state width="1441" height="282" key="GridCell.Tab.0.center/72.27.1464.837@72.27.1464.837" timestamp="1598158598778" />
-    <state width="1441" height="282" key="GridCell.Tab.0.left" timestamp="1598158598778">
+    <state width="1441" height="318" key="GridCell.Tab.0.center/72.27.1464.837@72.27.1464.837" timestamp="1598489867682" />
+    <state width="1441" height="318" key="GridCell.Tab.0.left" timestamp="1598489867682">
       <screen x="72" y="27" width="1464" height="837" />
     </state>
-    <state width="1441" height="282" key="GridCell.Tab.0.left/72.27.1464.837@72.27.1464.837" timestamp="1598158598778" />
-    <state width="1441" height="282" key="GridCell.Tab.0.right" timestamp="1598158598778">
+    <state width="1441" height="318" key="GridCell.Tab.0.left/72.27.1464.837@72.27.1464.837" timestamp="1598489867682" />
+    <state width="1441" height="318" key="GridCell.Tab.0.right" timestamp="1598489867683">
       <screen x="72" y="27" width="1464" height="837" />
     </state>
-    <state width="1441" height="282" key="GridCell.Tab.0.right/72.27.1464.837@72.27.1464.837" timestamp="1598158598778" />
+    <state width="1441" height="318" key="GridCell.Tab.0.right/72.27.1464.837@72.27.1464.837" timestamp="1598489867683" />
   </component>
 </project>
