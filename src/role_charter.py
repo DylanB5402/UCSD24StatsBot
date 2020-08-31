@@ -20,7 +20,6 @@ class SeparateRoles:
         self.roles = roles
 
 
-
 class RoleCharter():
 
     def __init__(self, discord_bot: bot.UCSD24StatsBot):
@@ -56,6 +55,16 @@ class RoleCharter():
         for s in argv:
             data_list.append(self.get_roles_sum(s))
             label_list.append(s.name)
-        # print(data_list)
-        # print(label_list)
+        chart.generate_pie_chart(label_list, data_list, file_name)
+
+    def gen_portion_of_everyone_chart(self, file_name : str, sep_roles: SeparateRoles):
+        data_list = []
+        label_list = []
+        role_sum = 0
+        for role_name in sep_roles.roles:
+            data_list.append(self.role_number_dict[role_name])
+            label_list.append(role_name)
+            role_sum += self.role_number_dict[role_name]
+        data_list.append(self.role_number_dict["@everyone"] - role_sum)
+        label_list.append("the rest of the server")
         chart.generate_pie_chart(label_list, data_list, file_name)

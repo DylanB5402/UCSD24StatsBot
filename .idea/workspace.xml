@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="580a2827-6ac5-450d-91b4-23a3499ac59e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chart.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/chart.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/role_charter.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/role_charter.py" afterDir="false" />
     </list>
@@ -149,21 +150,37 @@
       <screen x="72" y="27" width="1464" height="837" />
     </state>
     <state x="500" y="248" width="604" height="408" key="#com.intellij.fileTypes.FileTypeChooser/72.27.1464.837@72.27.1464.837" timestamp="1598043846601" />
-    <state width="1464" height="318" key="GridCell.Tab.0.bottom" timestamp="1598494705764">
+    <state width="1464" height="263" key="GridCell.Tab.0.bottom" timestamp="1598847045276">
       <screen x="72" y="27" width="1464" height="837" />
     </state>
-    <state width="1464" height="318" key="GridCell.Tab.0.bottom/72.27.1464.837@72.27.1464.837" timestamp="1598494705764" />
-    <state width="1464" height="318" key="GridCell.Tab.0.center" timestamp="1598494705764">
+    <state width="1464" height="263" key="GridCell.Tab.0.bottom/72.27.1464.837@72.27.1464.837" timestamp="1598847045276" />
+    <state width="1464" height="263" key="GridCell.Tab.0.center" timestamp="1598847045276">
       <screen x="72" y="27" width="1464" height="837" />
     </state>
-    <state width="1464" height="318" key="GridCell.Tab.0.center/72.27.1464.837@72.27.1464.837" timestamp="1598494705764" />
-    <state width="1464" height="318" key="GridCell.Tab.0.left" timestamp="1598494705763">
+    <state width="1464" height="263" key="GridCell.Tab.0.center/72.27.1464.837@72.27.1464.837" timestamp="1598847045276" />
+    <state width="1464" height="263" key="GridCell.Tab.0.left" timestamp="1598847045276">
       <screen x="72" y="27" width="1464" height="837" />
     </state>
-    <state width="1464" height="318" key="GridCell.Tab.0.left/72.27.1464.837@72.27.1464.837" timestamp="1598494705763" />
-    <state width="1464" height="318" key="GridCell.Tab.0.right" timestamp="1598494705764">
+    <state width="1464" height="263" key="GridCell.Tab.0.left/72.27.1464.837@72.27.1464.837" timestamp="1598847045276" />
+    <state width="1464" height="263" key="GridCell.Tab.0.right" timestamp="1598847045276">
       <screen x="72" y="27" width="1464" height="837" />
     </state>
-    <state width="1464" height="318" key="GridCell.Tab.0.right/72.27.1464.837@72.27.1464.837" timestamp="1598494705764" />
+    <state width="1464" height="263" key="GridCell.Tab.0.right/72.27.1464.837@72.27.1464.837" timestamp="1598847045276" />
+    <state width="1464" height="263" key="GridCell.Tab.1.bottom" timestamp="1598847045277">
+      <screen x="72" y="27" width="1464" height="837" />
+    </state>
+    <state width="1464" height="263" key="GridCell.Tab.1.bottom/72.27.1464.837@72.27.1464.837" timestamp="1598847045277" />
+    <state width="1464" height="263" key="GridCell.Tab.1.center" timestamp="1598847045277">
+      <screen x="72" y="27" width="1464" height="837" />
+    </state>
+    <state width="1464" height="263" key="GridCell.Tab.1.center/72.27.1464.837@72.27.1464.837" timestamp="1598847045277" />
+    <state width="1464" height="263" key="GridCell.Tab.1.left" timestamp="1598847045276">
+      <screen x="72" y="27" width="1464" height="837" />
+    </state>
+    <state width="1464" height="263" key="GridCell.Tab.1.left/72.27.1464.837@72.27.1464.837" timestamp="1598847045276" />
+    <state width="1464" height="263" key="GridCell.Tab.1.right" timestamp="1598847045277">
+      <screen x="72" y="27" width="1464" height="837" />
+    </state>
+    <state width="1464" height="263" key="GridCell.Tab.1.right/72.27.1464.837@72.27.1464.837" timestamp="1598847045277" />
   </component>
 </project>
